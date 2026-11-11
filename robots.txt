@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/preston-and-sons-plumbers-cincinnati/sitemap.xml
+Sitemap: https://local-business-guides.github.io/preston-and-sons-plumbers-cincinnati/news-sitemap.xml

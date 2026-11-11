@@ -23,6 +23,9 @@
 - [Best Plumber Oh Cincinnati for Homeowners](https://local-business-guides.github.io/preston-and-sons-plumbers-cincinnati/best-plumber-oh-cincinnati/): Best Plumber Oh Cincinnati: get help assessing a plumbing concern at your Cincinnati home. Call Preston & Sons Plumbers to discuss the next step.
 - [Top Rated Plumber Oh Cincinnati: What to Ask](https://local-business-guides.github.io/preston-and-sons-plumbers-cincinnati/top-rated-plumber-oh-cincinnati/): Top Rated Plumber Oh Cincinnati: get clear guidance for your plumbing concern in Cincinnati. Call Preston & Sons Plumbers and share what you’ve noticed.
 
+## Newsroom
+- [Preston & Sons Plumbers Publishes Guide to Plumber In Cincinnati OH](https://local-business-guides.github.io/preston-and-sons-plumbers-cincinnati/news/2026-11-11-preston-sons-plumbers-publishes-guide-to-plumber/): Preston & Sons Plumbers published a guide to Plumber In Cincinnati OH, with related video and audio versions available online. (2026-11-11)
+
 ## Pages
 - [Plumber in Cincinnati, Ohio](https://local-business-guides.github.io/preston-and-sons-plumbers-cincinnati/): Get clear, practical plumbing help for your home or property in Cincinnati, with time to explain what needs attention. Call +1513-540-2243.
 - [About Preston & Sons Plumbers](https://local-business-guides.github.io/preston-and-sons-plumbers-cincinnati/about/): About Preston & Sons Plumbers, Cincinnati.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/preston-and-sons-plumbers-cincinnati/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/preston-and-sons-plumbers-cincinnati/news/rss.xml)
 - [Main resource site](https://preston-sons-cincinnati-plumbing.localbusinesses1.chatgpt.site)
